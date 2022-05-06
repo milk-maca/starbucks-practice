@@ -10,3 +10,5 @@
 ## 
 
 스타벅스 랜딩 페이지 클론코딩입니다.
+
+![Starbucks](https://raw.githubusercontent.com/milk-maca/starbucks-practice/main/_assets/main_screenshot.jpg)
