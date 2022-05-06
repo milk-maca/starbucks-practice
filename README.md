@@ -7,8 +7,11 @@
   ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=flat-square&logo=gitHub&logoColor=white) 
   ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 
-## 
+<br>
+<br>
 
-스타벅스 랜딩 페이지 클론코딩입니다.
+## 스타벅스 랜딩 페이지 클론코딩입니다.
+
+<br>
 
 ![Starbucks](https://raw.githubusercontent.com/milk-maca/starbucks-practice/main/_assets/main_screenshot.jpg)
