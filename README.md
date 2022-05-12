@@ -14,4 +14,4 @@
 
 [> Sample ](https://milk-maca-starbucks.netlify.app/)  
 
-![Starbucks](https://raw.githubusercontent.com/milk-maca/starbucks-practice/main/_assets/main_screenshot.jpg)
+![Starbucks](https://raw.githubusercontent.com/milk-maca/starbucks-practice/master/_assets/main_screenshot.jpg)
