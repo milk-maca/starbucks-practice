@@ -8,7 +8,10 @@
 
 <br>
 
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/219df29f-fa65-42ad-b9dd-53af4322c9dd/deploy-status)](https://app.netlify.com/sites/milk-maca-starbucks/deploys)
+##
 
-- [> Sample ](https://milk-maca-starbucks.netlify.app/)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/219df29f-fa65-42ad-b9dd-53af4322c9dd/deploy-status)](https://app.netlify.com/sites/milk-maca-starbucks/deploys)
+
+[> Sample ](https://milk-maca-starbucks.netlify.app/)  
+
 ![Starbucks](https://raw.githubusercontent.com/milk-maca/starbucks-practice/main/_assets/main_screenshot.jpg)
